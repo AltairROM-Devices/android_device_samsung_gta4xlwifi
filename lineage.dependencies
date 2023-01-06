@@ -1,6 +1,13 @@
 [
     {
+        "remote": "altair-devices",
         "repository": "android_device_samsung_gta4xl-common",
         "target_path": "device/samsung/gta4xl-common"
+    },
+    {
+        "remote": "tm",
+        "repository": "proprietary_vendor_samsung_gta4xlwifi",
+        "target_path": "vendor/samsung/gta4xlwifi",
+        "revision": "lineage-23.0"
     }
 ]
