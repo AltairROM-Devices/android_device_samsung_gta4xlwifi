@@ -8,6 +8,6 @@
         "remote": "tm",
         "repository": "proprietary_vendor_samsung_gta4xlwifi",
         "target_path": "vendor/samsung/gta4xlwifi",
-        "revision": "lineage-23.0"
+        "revision": "lineage-23.2"
     }
 ]
